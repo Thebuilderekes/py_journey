@@ -49,7 +49,7 @@ Throughout this repository, you’ll find:
 
 ## How You Can Use This Repo
 
-This repository will serve as a guide for anyone looking to learn Python, especially for web development or automation. If you're also starting your journey in Python, you can follow along, review my code, and provide feedback or suggestions. Feel free to clone the repo and experiment with the projects or use my notes as a starting point for your own learning.
+This repository will serve as a guide for anyone looking to learn Python, especially for web development or automation. If you're also starting your journey in Python, you can follow along, review my code, and provide feedback or suggestions. There are different chapters each covering various topics in each of them. You will find a markdown file to each topic that is covered as well as project files within each chapter folder
 
 ## Future Goals
 

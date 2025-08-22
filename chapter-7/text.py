@@ -1,0 +1,1 @@
+TEXT = """what do you want from me? I will not be back so soon. Don't wait up on me. the main reason that I will not be available is because I will be having meetings back to back and will most likely be home late at night."""
